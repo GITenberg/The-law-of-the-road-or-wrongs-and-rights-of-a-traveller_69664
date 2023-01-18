@@ -1,0 +1,27 @@
+_repo: The-law-of-the-road-or-wrongs-and-rights-of-a-traveller_69664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rogers, R. (Robert) Vashon
+    gutenberg_agent_id: '55366'
+    url: http://www.gutenberg.org/2009/agents/55366
+description: ''
+gutenberg_issued: '2022-12-30'
+identifiers:
+  gutenberg: '69664'
+language: en
+pgterms:marc904: https://archive.org/details/lawoftheroad00rogerich/page/n7/mode/2up
+pgterms:marc905: 20200730153133rogers
+pgterms:marc906: '1876'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: Sumner Whitney and Company,1876.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The law of the road: or wrongs and rights of a traveller'
+url: http://www.gutenberg.org/ebooks/69664

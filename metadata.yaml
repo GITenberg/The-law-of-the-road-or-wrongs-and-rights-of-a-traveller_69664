@@ -1,11 +1,16 @@
 _repo: The-law-of-the-road-or-wrongs-and-rights-of-a-traveller_69664
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69664-h/images/cover.jpg
 creator:
   author:
     agent_name: Rogers, R. (Robert) Vashon
     gutenberg_agent_id: '55366'
     url: http://www.gutenberg.org/2009/agents/55366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69664#The-law-of-the-road-or-wrongs-and-rights-of-a-traveller
 gutenberg_issued: '2022-12-30'
 identifiers:
   gutenberg: '69664'
